@@ -80,3 +80,9 @@ android.*
 !src/shell.html
 
 .vscode
+
+# Release packaging (rebuilt from src, not source)
+hexodus-web/
+hexodus-windows/
+hexodus-windows-test/
+*.zip

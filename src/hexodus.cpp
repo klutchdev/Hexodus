@@ -428,7 +428,10 @@ static void DrawFrame(void)
 
         DrawTexturePro(gameCanvas.texture,{ 0.0f, 0.0f, (float)gameCanvas.texture.width, -(float)gameCanvas.texture.height },{ 0.0f, 0.0f, (float)screenWidth, (float)screenHeight },{ 0.0f, 0.0f }, 0.0f, WHITE);
 
+        // DrawFPS(100, 100);
+
         EndShaderMode();
+        
 
     EndDrawing();
 }
