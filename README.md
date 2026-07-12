@@ -44,6 +44,7 @@ Keyboard:
 
 ### Links
 
+ - GitHub: https://github.com/klutchdev/Hexodus
  - itch.io Release: $(itch.io Game Page)
 
 ### License
