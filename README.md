@@ -45,7 +45,7 @@ Keyboard:
 ### Links
 
  - GitHub: https://github.com/klutchdev/Hexodus
- - itch.io Release: $(itch.io Game Page)
+ - itch.io Release: https://itch.io/jam/raylib-6x-gamejam/rate/4769450
 
 ### License
 
